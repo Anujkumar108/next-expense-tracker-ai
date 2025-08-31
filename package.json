@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "next start",
     "lint": "eslint"
   },
@@ -14,6 +14,7 @@
     "@prisma/client": "^6.15.0",
     "autoprefixer": "^10.4.21",
     "chart.js": "^4.5.0",
+    "date-fns": "^4.1.0",
     "next": "15.5.2",
     "openai": "^5.16.0",
     "postcss": "^8.5.6",
