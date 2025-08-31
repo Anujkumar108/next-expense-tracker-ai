@@ -33,7 +33,7 @@ const ContactPage = () => {
               <div className='absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200'></div>
             </a>
             <a
-              href='tel:+11234567890'
+              href='tel:+91 9315118628'
               className='group border-2 border-emerald-500/20 dark:border-emerald-400/20 text-emerald-600 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-900/20 px-6 sm:px-8 py-3 sm:py-4 rounded-xl sm:rounded-2xl font-semibold transition-all duration-200 backdrop-blur-sm flex items-center justify-center gap-2'
             >
               Call Us
@@ -79,11 +79,11 @@ const ContactPage = () => {
                   respond within 24 hours.
                 </p>
                 <a
-                  href='mailto:support@expensetracker-ai.com'
+                  href='mailto:mayankth108@gmail.com'
                   className='inline-flex items-center gap-2 text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 font-medium transition-colors duration-200 text-sm sm:text-base break-all sm:break-normal'
                 >
                   <span className='hidden sm:inline'>
-                    support@expensetracker-ai.com
+                    mayankth108@gmail.com
                   </span>
                   <span className='sm:hidden'>Email Us</span>
                   <span className='text-sm'>→</span>
@@ -105,10 +105,10 @@ const ContactPage = () => {
                   with urgent matters.
                 </p>
                 <a
-                  href='tel:+11234567890'
+                  href='tel:+91 9315118628'
                   className='inline-flex items-center gap-2 text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 font-medium transition-colors duration-200 text-sm sm:text-base'
                 >
-                  +1 (123) 456-7890
+                  +91 9315118628
                   <span className='text-sm'>→</span>
                 </a>
               </div>
